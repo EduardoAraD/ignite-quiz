@@ -1,38 +1,44 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+# Ignite Quiz
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/EduardoAraD/ignite-quiz/blob/main/LICENSE)
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+# Sobre o projeto
 
+**Ignite Quiz** é um aplicativo de perguntas sobre programação. Nesta aplicação é baseada em Animação, Feefback visual, tatil e sonoro.
 
-## 💻 Projeto
+Animated, Expo-av, Skia e Haptics.
 
-ignitequiz_template
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
+Esse projeto é um dos realizados da trilha de React Native do curso **Ignite**, bootcamp completo de especialização em React, React Native e Node.js
+realizado pela [Rocketseat](https://www.rocketseat.com.br "Site da Rockeseat").
 
 
-<!--START_SECTION:footer-->
+# Layout
+## Mobile
+![Mobile 1](https://github.com/EduardoAraD/assets/blob/main/ignitequiz/home.png) ![Mobile 2](https://github.com/EduardoAraD/assets/blob/main/ignitequiz/question.png) ![Mobile 3](https://github.com/EduardoAraD/assets/blob/main/ignitequiz/finish.png)
 
-<br />
-<br />
+# Tecnologias utilizadas
+## Front end
+- TypeScript
+- Expo
+- React Native Animated
+- Skia
 
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
+# Como executar o projeto
+Pré-requisitos: npm / yarn
 
-<!--END_SECTION:footer-->
+```bash
+# clonar repositório
+git clone https://github.com/EduardoAraD/ignite-quiz.git
+
+# instalar dependências
+yarn install
+
+# executar o projeto
+npx expo start
+```
+
+# Autor
+
+Carlos Eduardo Araújo Duarte
+
+https://www.linkedin.com/in/eduardo-araujo-2a679a176/
 
